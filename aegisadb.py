@@ -2,7 +2,7 @@
 """
 PEGASUS  
 ============================================================
-Developed by Vaishnav Rajeev | Co-developed by Rishabh Gurnani
+Developed by Vaishnav Rajeev | Contributions by Rishabh Gurnani
 
 A terminal-based, ADB-driven toolkit for managing and diagnosing
 Android devices from a Kali Linux (or any Linux) workstation.
@@ -43,7 +43,7 @@ except ImportError:
 
 APP_NAME = "PEGASUS"
 APP_VERSION = "1.0"
-DEVELOPER_LINE = "Developed by Vaishnav Rajeev | Co-developed by Rishabh Gurnani"
+DEVELOPER_LINE = "Developed by Vaishnav Rajeev | Contriubuted by Rishabh Gurnani"
 
 HISTORY_FILE = os.path.join(os.path.expanduser("~"), ".aegisadb_history.json")
 WORKDIR = os.path.join(os.path.expanduser("~"), "AegisADB_output")
