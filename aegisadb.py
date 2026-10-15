@@ -128,8 +128,8 @@ def banner():
         text = f"{APP_NAME}\n"
     print(f"{Color.CYAN}{Color.BOLD}{text}{Color.RESET}", end="")
     print(f"{Color.CYAN}{APP_NAME} v{APP_VERSION} | {DEVELOPER_LINE}{Color.RESET}")
-    print(f"{Color.CYAN}Android Device Management & Diagnostics Toolkit (ADB-based){Color.RESET}")
-    print(f"{Color.YELLOW}Use only on devices you own or are explicitly authorized to test.{Color.RESET}")
+    print(f"{Color.CYAN}Fly. Observe. Control. Android Operations{Color.RESET}")
+    print(f"{Color.YELLOW}Use only on devices you own or are explicitly authorized to test. IT IS ILLEGAL TO USE NORMALLY!!!!!{Color.RESET}")
     print(f"{Color.BLUE}{'-' * 65}{Color.RESET}")
 
 
