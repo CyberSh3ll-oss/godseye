@@ -351,11 +351,9 @@ Then in God's Eye: `[11] PEGASUS → [2] Connect a Device`
 | Role | Name |
 |---|---|
 | 🎨 Framework Author | **VAISHNAV** |
-| 🦅 PEGASUS Author | **Alok Thakur** ([@thakur2309](https://github.com/thakur2309)) |
-| 🔁 IPHOPPR Author | **Alok Thakur** ([@thakur2309](https://github.com/thakur2309)) |
-| 📺 YouTube | [Firewall Breaker](https://www.youtube.com/@FirewallBreaker09) |
-| 💬 WhatsApp Channel | [Join](https://whatsapp.com/channel/0029VbAiqVMKLaHjg5J1Nm2F) |
-| 📸 Instagram | [@sudo_xploit](https://www.instagram.com/sudo_xploit) |
+| 🦅 PEGASUS Author | **Vaishnav Rajeev** ((https://github.com/CyberSh3ll-oss)) |
+| 🔁 IPHOPPR Author | **Vaishnav Rajeev** ((https://github.com/CyberSh3ll-oss)) |
+| 📸 Instagram |(https://www.instagram.com/vaishnav.wav) |
 
 ---
 
