@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-PEGASUS SOFTWARE 
+PEGASUS  
 ============================================================
 Developed by Vaishnav Rajeev | Co-developed by Rishabh Gurnani
 
@@ -41,7 +41,7 @@ try:
 except ImportError:
     HAVE_FIGLET = False
 
-APP_NAME = "AegisADB"
+APP_NAME = "PEGASUS"
 APP_VERSION = "1.0"
 DEVELOPER_LINE = "Developed by Vaishnav Rajeev | Co-developed by Rishabh Gurnani"
 
