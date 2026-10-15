@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-AegisADB — Android Device Management & Diagnostics Toolkit
+PEGASUS SOFTWARE 
 ============================================================
 Developed by Vaishnav Rajeev | Co-developed by Rishabh Gurnani
 
