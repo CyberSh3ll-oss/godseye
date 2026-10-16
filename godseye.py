@@ -40,7 +40,7 @@ RESET = "\033[0m"
 # ------------------------------------------------------------------
 APP_NAME = "PEGASUS"
 APP_VERSION = "1.0"
-DEVELOPER_LINE = "Developed by Vaishnav Rajeev | Contriubuted by Rishabh Gurnani"
+DEVELOPER_LINE = "Developed by Vaishnav Rajeev & Rishabh Gurnani"
 
 HISTORY_FILE = os.path.join(os.path.expanduser("~"), ".aegisadb_history.json")
 WORKDIR = os.path.join(os.path.expanduser("~"), "AegisADB_output")
